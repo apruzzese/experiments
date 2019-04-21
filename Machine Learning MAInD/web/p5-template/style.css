@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+}
+
+h1 {
+  position: fixed;
+  left: 200px;
+  top: 50px;
+  color: white;
+}
